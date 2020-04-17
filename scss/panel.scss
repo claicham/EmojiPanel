@@ -5,58 +5,63 @@
 @import "results";
 
 .EmojiPanel__tooltip {
-    display: none;
+  display: none;
 }
 
 .EmojiPanel {
-    width: 100%;
+  width: 100%;
+  border-radius: $EmojiPanel-border-radius;
+  background: $EmojiPanel-background-panel;
+  text-align: left;
+
+  @media (min-width: $EmojiPanel-width) {
+    width: $EmojiPanel-width;
+  }
+
+  &--trigger {
+    visibility: hidden;
+    pointer-events: none;
+  }
+  &--open {
+    visibility: visible;
+    pointer-events: inherit;
+  }
+
+  button {
+    padding: 0;
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+  }
+
+  .emoji {
+    width: $EmojiPanel-emoji-width;
+    height: $EmojiPanel-emoji-width;
+    border: 5px solid transparent;
     border-radius: $EmojiPanel-border-radius;
-    background: $EmojiPanel-background-panel;
-    text-align: left;
+    font-size: ($EmojiPanel-emoji-width - 14px);
+    line-height: 1.3;
+    cursor: pointer;
+    transition: all 0.2s;
+    overflow: hidden;
+    text-align: center;
+    float: left;
+    display: block;
 
-    @media(min-width: $EmojiPanel-width) {
-        width: $EmojiPanel-width;
+    &:hover,
+    &:focus {
+      background: #f1f1f1;
+      border-color: #f1f1f1;
     }
-
-    &--trigger {
-        visibility: hidden;
-        pointer-events: none;
-    }
-    &--open {
-        visibility: visible;
-        pointer-events: inherit;
-    }
-
-    button {
-        padding: 0;
-        border: none;
-        outline: none;
-        background: none;
-        cursor: pointer;
-    }
-
-    .emoji {
-        width: $EmojiPanel-emoji-width;
-        height: $EmojiPanel-emoji-width;
-        border: 5px solid transparent;
-        border-radius: $EmojiPanel-border-radius;
-        font-size: ($EmojiPanel-emoji-width - 10px);
-        line-height: 1.1;
-        cursor: pointer;
-        transition: all 0.2s;
-
-        &:hover, &:focus {
-            background: #F1F1F1;
-            border-color: #F1F1F1;
-        }
-    }
-    .temp {
-        flex: initial;
-        width: 20px;
-        min-width: initial;
-        height: 20px;
-        margin: 5px;
-        border-radius: $EmojiPanel-border-radius;
-        background: #EEE;
-    }
+  }
+  .temp {
+    flex: initial;
+    width: 20px;
+    min-width: initial;
+    height: 20px;
+    margin: 5px;
+    border-radius: $EmojiPanel-border-radius;
+    background: #eee;
+  }
 }
