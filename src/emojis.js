@@ -146,6 +146,13 @@ const Emojis = {
 
         const panel = document.querySelector(`.${options.classnames.panel}`);
         panel.classList.toggle(options.classnames.open);
+
+        if (options.use_shroud) {
+            const shroud = document.querySelector(
+                `.${options.classnames.shroud}`
+            );
+            shroud.classList.toggle(options.classnames.open);
+        }
     },
 };
 
