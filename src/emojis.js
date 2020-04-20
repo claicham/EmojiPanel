@@ -134,6 +134,7 @@ const Emojis = {
         const currentValue = input.value;
         const caretPosStart = input.selectionStart;
         const caretPosEnd = input.selectionEnd;
+        const lastChar = input.value.length;
         if (!options.editable) {
             return;
         }
@@ -141,7 +142,7 @@ const Emojis = {
         input.value = [
             currentValue.slice(0, caretPosStart),
             emoji.char,
-            currentValue.slice(caretPosEnd, -1),
+            currentValue.slice(caretPosEnd, lastChar),
         ].join("");
 
         const panel = document.querySelector(`.${options.classnames.panel}`);

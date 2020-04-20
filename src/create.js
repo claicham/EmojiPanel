@@ -44,6 +44,18 @@ const Create = (options, emit, toggle) => {
     if (options.use_shroud) {
         shroud = document.createElement("div");
         shroud.classList.add(options.classnames.shroud);
+
+        // append shroud
+        options.container.appendChild(shroud);
+        const clickableShroud = document.querySelector(
+            `.${options.classnames.shroud}`
+        );
+        console.log(clickableShroud);
+        // add event listener
+        clickableShroud.addEventListener("click", (e) => {
+            toggle();
+            e.target.classList.toggle(options.classnames.open);
+        });
     }
 
     // Create the category links
@@ -144,7 +156,6 @@ const Create = (options, emit, toggle) => {
 
     // Append the dropdown menu to the container
     options.container.appendChild(panel);
-    if (options.use_shroud) options.container.appendChild(shroud);
 
     // Tether the dropdown to the trigger
     let tether;
