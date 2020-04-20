@@ -135,10 +135,11 @@ const Emojis = {
         const caretPosStart = input.selectionStart;
         const caretPosEnd = input.selectionEnd;
         const lastChar = input.value.length;
+
         if (!options.editable) {
             return;
         }
-
+        console.log(emoji);
         input.value = [
             currentValue.slice(0, caretPosStart),
             emoji.char,

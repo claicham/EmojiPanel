@@ -1,8 +1,6 @@
-
-
 class Frequent {
     getAll() {
-        var list = localStorage.getItem('EmojiPanel-frequent') || '[]';
+        var list = localStorage.getItem("EmojiPanel-frequent") || "[]";
 
         try {
             return JSON.parse(list);
@@ -13,12 +11,12 @@ class Frequent {
     add(emoji) {
         var list = this.getAll();
 
-        if (list.find(row => row.char == emoji.char)) {
+        if (list.find((row) => row.char == emoji.char)) {
             return false;
         }
 
         list.push(emoji);
-        localStorage.setItem('EmojiPanel-frequent', JSON.stringify(list));
+        localStorage.setItem("EmojiPanel-frequent", JSON.stringify(list));
         return true;
     }
 }

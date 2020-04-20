@@ -50,7 +50,6 @@ const Create = (options, emit, toggle) => {
         const clickableShroud = document.querySelector(
             `.${options.classnames.shroud}`
         );
-        console.log(clickableShroud);
         // add event listener
         clickableShroud.addEventListener("click", (e) => {
             toggle();
