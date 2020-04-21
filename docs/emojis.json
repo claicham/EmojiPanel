@@ -400,7 +400,7 @@
           "relaxed"
         ],
         "hex": "263a",
-        "char": "☺"
+        "char": "☺️"
       },
       {
         "unicode": "1f642",
@@ -1069,7 +1069,7 @@
           "frowning2"
         ],
         "hex": "2639",
-        "char": "☹"
+        "char": "☹️"
       },
       {
         "unicode": "1f641",
@@ -2218,7 +2218,7 @@
           "spy"
         ],
         "hex": "1f575",
-        "char": "🕵",
+        "char": "🕵️",
         "fitzpatrick": true
       },
       {
@@ -2812,7 +2812,7 @@
           "speaking_head"
         ],
         "hex": "1f5e3",
-        "char": "🗣"
+        "char": "🗣️"
       },
       {
         "unicode": "1f464",
@@ -2951,7 +2951,7 @@
           "kiss_mm"
         ],
         "hex": "1f468-2764-1f48b-1f468",
-        "char": "👨❤💋👨"
+        "char": "👨‍❤️‍💋‍👨"
       },
       {
         "unicode": "1f469-2764-1f48b-1f469",
@@ -2975,7 +2975,7 @@
           "kiss_ww"
         ],
         "hex": "1f469-2764-1f48b-1f469",
-        "char": "👩❤💋👩"
+        "char": "👩‍❤️‍💋‍👩"
       },
       {
         "unicode": "1f491",
@@ -3018,7 +3018,7 @@
           "couple_mm"
         ],
         "hex": "1f468-2764-1f468",
-        "char": "👨❤👨"
+        "char": "👨‍❤️‍👨"
       },
       {
         "unicode": "1f469-2764-1f469",
@@ -3041,7 +3041,7 @@
           "couple_ww"
         ],
         "hex": "1f469-2764-1f469",
-        "char": "👩❤👩"
+        "char": "👩‍❤️‍👩"
       },
       {
         "unicode": "1f46a",
@@ -3079,7 +3079,7 @@
           "family_mwg"
         ],
         "hex": "1f468-1f469-1f467",
-        "char": "👨👩👧"
+        "char": "👨‍👩‍👧"
       },
       {
         "unicode": "1f468-1f469-1f467-1f466",
@@ -3098,7 +3098,7 @@
           "family_mwgb"
         ],
         "hex": "1f468-1f469-1f467-1f466",
-        "char": "👨👩👧👦"
+        "char": "👨‍👩‍👧‍👦"
       },
       {
         "unicode": "1f468-1f469-1f466-1f466",
@@ -3117,7 +3117,7 @@
           "family_mwbb"
         ],
         "hex": "1f468-1f469-1f466-1f466",
-        "char": "👨👩👦👦"
+        "char": "👨‍👩‍👦‍👦"
       },
       {
         "unicode": "1f468-1f469-1f467-1f467",
@@ -3136,7 +3136,7 @@
           "family_mwgg"
         ],
         "hex": "1f468-1f469-1f467-1f467",
-        "char": "👨👩👧👧"
+        "char": "👨‍👩‍👧‍👧"
       },
       {
         "unicode": "1f468-1f468-1f466",
@@ -3158,7 +3158,7 @@
           "family_mmb"
         ],
         "hex": "1f468-1f468-1f466",
-        "char": "👨👨👦"
+        "char": "👨‍👨‍👦"
       },
       {
         "unicode": "1f468-1f468-1f467",
@@ -3180,7 +3180,7 @@
           "family_mmg"
         ],
         "hex": "1f468-1f468-1f467",
-        "char": "👨👨👧"
+        "char": "👨‍👨‍👧"
       },
       {
         "unicode": "1f468-1f468-1f467-1f466",
@@ -3202,7 +3202,7 @@
           "family_mmgb"
         ],
         "hex": "1f468-1f468-1f467-1f466",
-        "char": "👨👨👧👦"
+        "char": "👨‍👨‍👧‍👦"
       },
       {
         "unicode": "1f468-1f468-1f466-1f466",
@@ -3224,7 +3224,7 @@
           "family_mmbb"
         ],
         "hex": "1f468-1f468-1f466-1f466",
-        "char": "👨👨👦👦"
+        "char": "👨‍👨‍👦‍👦"
       },
       {
         "unicode": "1f468-1f468-1f467-1f467",
@@ -3246,7 +3246,7 @@
           "family_mmgg"
         ],
         "hex": "1f468-1f468-1f467-1f467",
-        "char": "👨👨👧👧"
+        "char": "👨‍👨‍👧‍👧"
       },
       {
         "unicode": "1f469-1f469-1f466",
@@ -3268,7 +3268,7 @@
           "family_wwb"
         ],
         "hex": "1f469-1f469-1f466",
-        "char": "👩👩👦"
+        "char": "👩‍👩‍👦"
       },
       {
         "unicode": "1f469-1f469-1f467",
@@ -3290,7 +3290,7 @@
           "family_wwg"
         ],
         "hex": "1f469-1f469-1f467",
-        "char": "👩👩👧"
+        "char": "👩‍👩‍👧"
       },
       {
         "unicode": "1f469-1f469-1f467-1f466",
@@ -3312,7 +3312,7 @@
           "family_wwgb"
         ],
         "hex": "1f469-1f469-1f467-1f466",
-        "char": "👩👩👧👦"
+        "char": "👩‍👩‍👧‍👦"
       },
       {
         "unicode": "1f469-1f469-1f466-1f466",
@@ -3334,7 +3334,7 @@
           "family_wwbb"
         ],
         "hex": "1f469-1f469-1f466-1f466",
-        "char": "👩👩👦👦"
+        "char": "👩‍👩‍👦‍👦"
       },
       {
         "unicode": "1f469-1f469-1f467-1f467",
@@ -3356,7 +3356,7 @@
           "family_wwgg"
         ],
         "hex": "1f469-1f469-1f467-1f467",
-        "char": "👩👩👧👧"
+        "char": "👩‍👩‍👧‍👧"
       },
       {
         "unicode": "1f4aa",
@@ -3460,7 +3460,7 @@
           "point_up"
         ],
         "hex": "261d",
-        "char": "☝",
+        "char": "☝️",
         "fitzpatrick": true
       },
       {
@@ -3547,7 +3547,7 @@
           "v"
         ],
         "hex": "270c",
-        "char": "✌",
+        "char": "✌️",
         "fitzpatrick": true
       },
       {
@@ -3656,7 +3656,7 @@
           "hand_splayed"
         ],
         "hex": "1f590",
-        "char": "🖐",
+        "char": "🖐️",
         "fitzpatrick": true
       },
       {
@@ -3922,7 +3922,7 @@
           "writing_hand"
         ],
         "hex": "270d",
-        "char": "✍",
+        "char": "✍️",
         "fitzpatrick": true
       },
       {
@@ -4124,7 +4124,7 @@
           "eye"
         ],
         "hex": "1f441",
-        "char": "👁"
+        "char": "👁️"
       },
       {
         "unicode": "1f445",
@@ -4241,7 +4241,7 @@
           "dark_sunglasses"
         ],
         "hex": "1f576",
-        "char": "🕶"
+        "char": "🕶️"
       },
       {
         "unicode": "1f454",
@@ -4651,7 +4651,7 @@
           "helmet_with_cross"
         ],
         "hex": "26d1",
-        "char": "⛑"
+        "char": "⛑️"
       },
       {
         "unicode": "1f484",
@@ -4764,7 +4764,7 @@
           "skull_crossbones"
         ],
         "hex": "2620",
-        "char": "☠"
+        "char": "☠️"
       },
       {
         "unicode": "1f48c",
@@ -4818,7 +4818,7 @@
           "hole"
         ],
         "hex": "1f573",
-        "char": "🕳"
+        "char": "🕳️"
       },
       {
         "unicode": "1f6cd",
@@ -4837,7 +4837,7 @@
           "shopping_bags"
         ],
         "hex": "1f6cd",
-        "char": "🛍"
+        "char": "🛍️"
       },
       {
         "unicode": "1f4ff",
@@ -4929,7 +4929,7 @@
           "map"
         ],
         "hex": "1f5fa",
-        "char": "🗺"
+        "char": "🗺️"
       },
       {
         "unicode": "1f488",
@@ -4966,7 +4966,7 @@
           "frame_photo"
         ],
         "hex": "1f5bc",
-        "char": "🖼"
+        "char": "🖼️"
       },
       {
         "unicode": "1f6ce",
@@ -4985,7 +4985,7 @@
           "bellhop"
         ],
         "hex": "1f6ce",
-        "char": "🛎"
+        "char": "🛎️"
       },
       {
         "unicode": "1f6aa",
@@ -5037,7 +5037,7 @@
           "bed"
         ],
         "hex": "1f6cf",
-        "char": "🛏"
+        "char": "🛏️"
       },
       {
         "unicode": "1f6cb",
@@ -5056,7 +5056,7 @@
           "couch"
         ],
         "hex": "1f6cb",
-        "char": "🛋"
+        "char": "🛋️"
       },
       {
         "unicode": "1f6bd",
@@ -5130,7 +5130,7 @@
           "hourglass"
         ],
         "hex": "231b",
-        "char": "⌛"
+        "char": "⌛️"
       },
       {
         "unicode": "23f3",
@@ -5166,7 +5166,7 @@
           "watch"
         ],
         "hex": "231a",
-        "char": "⌚"
+        "char": "⌚️"
       },
       {
         "unicode": "23f0",
@@ -5202,7 +5202,7 @@
           "stopwatch"
         ],
         "hex": "23f1",
-        "char": "⏱"
+        "char": "⏱️"
       },
       {
         "unicode": "23f2",
@@ -5222,7 +5222,7 @@
           "timer"
         ],
         "hex": "23f2",
-        "char": "⏲"
+        "char": "⏲️"
       },
       {
         "unicode": "1f570",
@@ -5242,7 +5242,7 @@
           "clock"
         ],
         "hex": "1f570",
-        "char": "🕰"
+        "char": "🕰️"
       },
       {
         "unicode": "1f321",
@@ -5262,7 +5262,7 @@
           "thermometer"
         ],
         "hex": "1f321",
-        "char": "🌡"
+        "char": "🌡️"
       },
       {
         "unicode": "26f1",
@@ -5283,7 +5283,7 @@
           "beach_umbrella"
         ],
         "hex": "26f1",
-        "char": "⛱"
+        "char": "⛱️"
       },
       {
         "unicode": "1f388",
@@ -5464,7 +5464,7 @@
           "joystick"
         ],
         "hex": "1f579",
-        "char": "🕹"
+        "char": "🕹️"
       },
       {
         "unicode": "1f4ef",
@@ -5501,7 +5501,7 @@
           "microphone2"
         ],
         "hex": "1f399",
-        "char": "🎙"
+        "char": "🎙️"
       },
       {
         "unicode": "1f39a",
@@ -5517,7 +5517,7 @@
           "level_slider"
         ],
         "hex": "1f39a",
-        "char": "🎚"
+        "char": "🎚️"
       },
       {
         "unicode": "1f39b",
@@ -5534,7 +5534,7 @@
           "control_knobs"
         ],
         "hex": "1f39b",
-        "char": "🎛"
+        "char": "🎛️"
       },
       {
         "unicode": "1f4fb",
@@ -5607,7 +5607,7 @@
           "telephone"
         ],
         "hex": "260e",
-        "char": "☎"
+        "char": "☎️"
       },
       {
         "unicode": "1f4de",
@@ -5735,7 +5735,7 @@
           "desktop"
         ],
         "hex": "1f5a5",
-        "char": "🖥"
+        "char": "🖥️"
       },
       {
         "unicode": "1f5a8",
@@ -5754,7 +5754,7 @@
           "printer"
         ],
         "hex": "1f5a8",
-        "char": "🖨"
+        "char": "🖨️"
       },
       {
         "unicode": "2328",
@@ -5773,7 +5773,7 @@
           "keyboard"
         ],
         "hex": "2328",
-        "char": "⌨"
+        "char": "⌨️"
       },
       {
         "unicode": "1f5b1",
@@ -5795,7 +5795,7 @@
           "mouse_three_button"
         ],
         "hex": "1f5b1",
-        "char": "🖱"
+        "char": "🖱️"
       },
       {
         "unicode": "1f5b2",
@@ -5815,7 +5815,7 @@
           "trackball"
         ],
         "hex": "1f5b2",
-        "char": "🖲"
+        "char": "🖲️"
       },
       {
         "unicode": "1f4bd",
@@ -5922,7 +5922,7 @@
           "film_frames"
         ],
         "hex": "1f39e",
-        "char": "🎞"
+        "char": "🎞️"
       },
       {
         "unicode": "1f4fd",
@@ -5943,7 +5943,7 @@
           "projector"
         ],
         "hex": "1f4fd",
-        "char": "📽"
+        "char": "📽️"
       },
       {
         "unicode": "1f4fa",
@@ -6138,7 +6138,7 @@
           "candle"
         ],
         "hex": "1f56f",
-        "char": "🕯"
+        "char": "🕯️"
       },
       {
         "unicode": "1f4a1",
@@ -6461,7 +6461,7 @@
           "newspaper2"
         ],
         "hex": "1f5de",
-        "char": "🗞"
+        "char": "🗞️"
       },
       {
         "unicode": "1f4d1",
@@ -6514,7 +6514,7 @@
           "label"
         ],
         "hex": "1f3f7",
-        "char": "🏷"
+        "char": "🏷️"
       },
       {
         "unicode": "1f4b0",
@@ -6657,7 +6657,7 @@
           "envelope"
         ],
         "hex": "2709",
-        "char": "✉"
+        "char": "✉️"
       },
       {
         "unicode": "1f4e7",
@@ -6872,7 +6872,7 @@
           "ballot_box"
         ],
         "hex": "1f5f3",
-        "char": "🗳"
+        "char": "🗳️"
       },
       {
         "unicode": "270f",
@@ -6891,7 +6891,7 @@
           "pencil2"
         ],
         "hex": "270f",
-        "char": "✏"
+        "char": "✏️"
       },
       {
         "unicode": "2712",
@@ -6910,7 +6910,7 @@
           "black_nib"
         ],
         "hex": "2712",
-        "char": "✒"
+        "char": "✒️"
       },
       {
         "unicode": "1f58b",
@@ -6931,7 +6931,7 @@
           "pen_fountain"
         ],
         "hex": "1f58b",
-        "char": "🖋"
+        "char": "🖋️"
       },
       {
         "unicode": "1f58a",
@@ -6952,7 +6952,7 @@
           "pen_ballpoint"
         ],
         "hex": "1f58a",
-        "char": "🖊"
+        "char": "🖊️"
       },
       {
         "unicode": "1f58c",
@@ -6973,7 +6973,7 @@
           "paintbrush"
         ],
         "hex": "1f58c",
-        "char": "🖌"
+        "char": "🖌️"
       },
       {
         "unicode": "1f58d",
@@ -6994,7 +6994,7 @@
           "crayon"
         ],
         "hex": "1f58d",
-        "char": "🖍"
+        "char": "🖍️"
       },
       {
         "unicode": "1f4dd",
@@ -7069,7 +7069,7 @@
           "dividers"
         ],
         "hex": "1f5c2",
-        "char": "🗂"
+        "char": "🗂️"
       },
       {
         "unicode": "1f4c5",
@@ -7126,7 +7126,7 @@
           "notepad_spiral"
         ],
         "hex": "1f5d2",
-        "char": "🗒"
+        "char": "🗒️"
       },
       {
         "unicode": "1f5d3",
@@ -7146,7 +7146,7 @@
           "calendar_spiral"
         ],
         "hex": "1f5d3",
-        "char": "🗓"
+        "char": "🗓️"
       },
       {
         "unicode": "1f4c7",
@@ -7315,7 +7315,7 @@
           "paperclips"
         ],
         "hex": "1f587",
-        "char": "🖇"
+        "char": "🖇️"
       },
       {
         "unicode": "1f4cf",
@@ -7373,7 +7373,7 @@
           "scissors"
         ],
         "hex": "2702",
-        "char": "✂"
+        "char": "✂️"
       },
       {
         "unicode": "1f5c3",
@@ -7394,7 +7394,7 @@
           "card_box"
         ],
         "hex": "1f5c3",
-        "char": "🗃"
+        "char": "🗃️"
       },
       {
         "unicode": "1f5c4",
@@ -7413,7 +7413,7 @@
           "file_cabinet"
         ],
         "hex": "1f5c4",
-        "char": "🗄"
+        "char": "🗄️"
       },
       {
         "unicode": "1f5d1",
@@ -7431,7 +7431,7 @@
           "wastebasket"
         ],
         "hex": "1f5d1",
-        "char": "🗑"
+        "char": "🗑️"
       },
       {
         "unicode": "1f512",
@@ -7541,7 +7541,7 @@
           "key2"
         ],
         "hex": "1f5dd",
-        "char": "🗝"
+        "char": "🗝️"
       },
       {
         "unicode": "1f528",
@@ -7579,7 +7579,7 @@
           "pick"
         ],
         "hex": "26cf",
-        "char": "⛏"
+        "char": "⛏️"
       },
       {
         "unicode": "2692",
@@ -7600,7 +7600,7 @@
           "hammer_pick"
         ],
         "hex": "2692",
-        "char": "⚒"
+        "char": "⚒️"
       },
       {
         "unicode": "1f6e0",
@@ -7620,7 +7620,7 @@
           "tools"
         ],
         "hex": "1f6e0",
-        "char": "🛠"
+        "char": "🛠️"
       },
       {
         "unicode": "1f5e1",
@@ -7640,7 +7640,7 @@
           "dagger"
         ],
         "hex": "1f5e1",
-        "char": "🗡"
+        "char": "🗡️"
       },
       {
         "unicode": "2694",
@@ -7658,7 +7658,7 @@
           "crossed_swords"
         ],
         "hex": "2694",
-        "char": "⚔"
+        "char": "⚔️"
       },
       {
         "unicode": "1f52b",
@@ -7696,7 +7696,7 @@
           "shield"
         ],
         "hex": "1f6e1",
-        "char": "🛡"
+        "char": "🛡️"
       },
       {
         "unicode": "1f527",
@@ -7751,7 +7751,7 @@
           "gear"
         ],
         "hex": "2699",
-        "char": "⚙"
+        "char": "⚙️"
       },
       {
         "unicode": "1f5dc",
@@ -7767,7 +7767,7 @@
           "compression"
         ],
         "hex": "1f5dc",
-        "char": "🗜"
+        "char": "🗜️"
       },
       {
         "unicode": "2697",
@@ -7785,7 +7785,7 @@
           "alembic"
         ],
         "hex": "2697",
-        "char": "⚗"
+        "char": "⚗️"
       },
       {
         "unicode": "2696",
@@ -7802,7 +7802,7 @@
           "scales"
         ],
         "hex": "2696",
-        "char": "⚖"
+        "char": "⚖️"
       },
       {
         "unicode": "1f517",
@@ -7838,7 +7838,7 @@
           "chains"
         ],
         "hex": "26d3",
-        "char": "⛓"
+        "char": "⛓️"
       },
       {
         "unicode": "1f489",
@@ -7915,7 +7915,7 @@
           "coffin"
         ],
         "hex": "26b0",
-        "char": "⚰"
+        "char": "⚰️"
       },
       {
         "unicode": "26b1",
@@ -7936,7 +7936,7 @@
           "urn"
         ],
         "hex": "26b1",
-        "char": "⚱"
+        "char": "⚱️"
       },
       {
         "unicode": "1f5ff",
@@ -7973,7 +7973,7 @@
           "oil"
         ],
         "hex": "1f6e2",
-        "char": "🛢"
+        "char": "🛢️"
       },
       {
         "unicode": "1f52e",
@@ -8082,7 +8082,7 @@
           "flag_white"
         ],
         "hex": "1f3f3",
-        "char": "🏳"
+        "char": "🏳️"
       },
       {
         "unicode": "1f3f3-1f308",
@@ -8147,7 +8147,7 @@
           "levitate"
         ],
         "hex": "1f574",
-        "char": "🕴"
+        "char": "🕴️"
       },
       {
         "unicode": "1f93a",
@@ -8206,7 +8206,7 @@
           "skier"
         ],
         "hex": "26f7",
-        "char": "⛷"
+        "char": "⛷️"
       },
       {
         "unicode": "1f3c2",
@@ -8249,7 +8249,7 @@
           "golfer"
         ],
         "hex": "1f3cc",
-        "char": "🏌"
+        "char": "🏌️"
       },
       {
         "unicode": "1f3c4",
@@ -8338,7 +8338,7 @@
           "basketball_player"
         ],
         "hex": "26f9",
-        "char": "⛹",
+        "char": "⛹️",
         "fitzpatrick": true
       },
       {
@@ -8364,7 +8364,7 @@
           "lifter"
         ],
         "hex": "1f3cb",
-        "char": "🏋",
+        "char": "🏋️",
         "fitzpatrick": true
       },
       {
@@ -8606,7 +8606,7 @@
           "reminder_ribbon"
         ],
         "hex": "1f397",
-        "char": "🎗"
+        "char": "🎗️"
       },
       {
         "unicode": "1f39f",
@@ -8627,7 +8627,7 @@
           "tickets"
         ],
         "hex": "1f39f",
-        "char": "🎟"
+        "char": "🎟️"
       },
       {
         "unicode": "1f3ab",
@@ -8665,7 +8665,7 @@
           "military_medal"
         ],
         "hex": "1f396",
-        "char": "🎖"
+        "char": "🎖️"
       },
       {
         "unicode": "1f3c6",
@@ -8785,7 +8785,7 @@
           "soccer"
         ],
         "hex": "26bd",
-        "char": "⚽"
+        "char": "⚽️"
       },
       {
         "unicode": "26be",
@@ -8805,7 +8805,7 @@
           "baseball"
         ],
         "hex": "26be",
-        "char": "⚾"
+        "char": "⚾️"
       },
       {
         "unicode": "1f3c0",
@@ -9141,7 +9141,7 @@
           "golf"
         ],
         "hex": "26f3",
-        "char": "⛳"
+        "char": "⛳️"
       },
       {
         "unicode": "26f8",
@@ -9160,7 +9160,7 @@
           "ice_skate"
         ],
         "hex": "26f8",
-        "char": "⛸"
+        "char": "⛸️"
       },
       {
         "unicode": "1f3a3",
@@ -10262,7 +10262,7 @@
           "chipmunk"
         ],
         "hex": "1f43f",
-        "char": "🐿"
+        "char": "🐿️"
       },
       {
         "unicode": "1f987",
@@ -10515,7 +10515,7 @@
           "dove"
         ],
         "hex": "1f54a",
-        "char": "🕊"
+        "char": "🕊️"
       },
       {
         "unicode": "1f985",
@@ -11032,7 +11032,7 @@
           "spider"
         ],
         "hex": "1f577",
-        "char": "🕷"
+        "char": "🕷️"
       },
       {
         "unicode": "1f578",
@@ -11049,7 +11049,7 @@
           "spider_web"
         ],
         "hex": "1f578",
-        "char": "🕸"
+        "char": "🕸️"
       },
       {
         "unicode": "1f982",
@@ -11126,7 +11126,7 @@
           "rosette"
         ],
         "hex": "1f3f5",
-        "char": "🏵"
+        "char": "🏵️"
       },
       {
         "unicode": "1f339",
@@ -11403,7 +11403,7 @@
           "shamrock"
         ],
         "hex": "2618",
-        "char": "☘"
+        "char": "☘️"
       },
       {
         "unicode": "1f340",
@@ -11827,7 +11827,7 @@
           "sunny"
         ],
         "hex": "2600",
-        "char": "☀"
+        "char": "☀️"
       },
       {
         "unicode": "1f31d",
@@ -11887,7 +11887,7 @@
           "star"
         ],
         "hex": "2b50",
-        "char": "⭐"
+        "char": "⭐️"
       },
       {
         "unicode": "1f31f",
@@ -11927,7 +11927,7 @@
           "cloud"
         ],
         "hex": "2601",
-        "char": "☁"
+        "char": "☁️"
       },
       {
         "unicode": "26c5",
@@ -11947,7 +11947,7 @@
           "partly_sunny"
         ],
         "hex": "26c5",
-        "char": "⛅"
+        "char": "⛅️"
       },
       {
         "unicode": "26c8",
@@ -11970,7 +11970,7 @@
           "thunder_cloud_rain"
         ],
         "hex": "26c8",
-        "char": "⛈"
+        "char": "⛈️"
       },
       {
         "unicode": "1f324",
@@ -11992,7 +11992,7 @@
           "white_sun_small_cloud"
         ],
         "hex": "1f324",
-        "char": "🌤"
+        "char": "🌤️"
       },
       {
         "unicode": "1f325",
@@ -12015,7 +12015,7 @@
           "white_sun_cloud"
         ],
         "hex": "1f325",
-        "char": "🌥"
+        "char": "🌥️"
       },
       {
         "unicode": "1f326",
@@ -12039,7 +12039,7 @@
           "white_sun_rain_cloud"
         ],
         "hex": "1f326",
-        "char": "🌦"
+        "char": "🌦️"
       },
       {
         "unicode": "1f327",
@@ -12063,7 +12063,7 @@
           "cloud_rain"
         ],
         "hex": "1f327",
-        "char": "🌧"
+        "char": "🌧️"
       },
       {
         "unicode": "1f328",
@@ -12087,7 +12087,7 @@
           "cloud_snow"
         ],
         "hex": "1f328",
-        "char": "🌨"
+        "char": "🌨️"
       },
       {
         "unicode": "1f329",
@@ -12110,7 +12110,7 @@
           "cloud_lightning"
         ],
         "hex": "1f329",
-        "char": "🌩"
+        "char": "🌩️"
       },
       {
         "unicode": "1f32a",
@@ -12131,7 +12131,7 @@
           "cloud_tornado"
         ],
         "hex": "1f32a",
-        "char": "🌪"
+        "char": "🌪️"
       },
       {
         "unicode": "1f32b",
@@ -12150,7 +12150,7 @@
           "fog"
         ],
         "hex": "1f32b",
-        "char": "🌫"
+        "char": "🌫️"
       },
       {
         "unicode": "1f32c",
@@ -12168,7 +12168,7 @@
           "wind_blowing_face"
         ],
         "hex": "1f32c",
-        "char": "🌬"
+        "char": "🌬️"
       },
       {
         "unicode": "2602",
@@ -12188,7 +12188,7 @@
           "umbrella2"
         ],
         "hex": "2602",
-        "char": "☂"
+        "char": "☂️"
       },
       {
         "unicode": "2614",
@@ -12208,7 +12208,7 @@
           "umbrella"
         ],
         "hex": "2614",
-        "char": "☔"
+        "char": "☔️"
       },
       {
         "unicode": "26a1",
@@ -12227,7 +12227,7 @@
           "zap"
         ],
         "hex": "26a1",
-        "char": "⚡"
+        "char": "⚡️"
       },
       {
         "unicode": "2744",
@@ -12249,7 +12249,7 @@
           "snowflake"
         ],
         "hex": "2744",
-        "char": "❄"
+        "char": "❄️"
       },
       {
         "unicode": "2603",
@@ -12271,7 +12271,7 @@
           "snowman2"
         ],
         "hex": "2603",
-        "char": "☃"
+        "char": "☃️"
       },
       {
         "unicode": "26c4",
@@ -12292,7 +12292,7 @@
           "snowman"
         ],
         "hex": "26c4",
-        "char": "⛄"
+        "char": "⛄️"
       },
       {
         "unicode": "2604",
@@ -12310,7 +12310,7 @@
           "comet"
         ],
         "hex": "2604",
-        "char": "☄"
+        "char": "☄️"
       },
       {
         "unicode": "1f525",
@@ -12491,7 +12491,7 @@
           "race_car"
         ],
         "hex": "1f3ce",
-        "char": "🏎"
+        "char": "🏎️"
       },
       {
         "unicode": "1f3cd",
@@ -12512,7 +12512,7 @@
           "motorcycle"
         ],
         "hex": "1f3cd",
-        "char": "🏍"
+        "char": "🏍️"
       },
       {
         "unicode": "1f5fe",
@@ -12556,7 +12556,7 @@
           "mountain_snow"
         ],
         "hex": "1f3d4",
-        "char": "🏔"
+        "char": "🏔️"
       },
       {
         "unicode": "26f0",
@@ -12576,7 +12576,7 @@
           "mountain"
         ],
         "hex": "26f0",
-        "char": "⛰"
+        "char": "⛰️"
       },
       {
         "unicode": "1f30b",
@@ -12635,7 +12635,7 @@
           "camping"
         ],
         "hex": "1f3d5",
-        "char": "🏕"
+        "char": "🏕️"
       },
       {
         "unicode": "1f3d6",
@@ -12659,7 +12659,7 @@
           "beach"
         ],
         "hex": "1f3d6",
-        "char": "🏖"
+        "char": "🏖️"
       },
       {
         "unicode": "1f3dc",
@@ -12679,7 +12679,7 @@
           "desert"
         ],
         "hex": "1f3dc",
-        "char": "🏜"
+        "char": "🏜️"
       },
       {
         "unicode": "1f3dd",
@@ -12703,7 +12703,7 @@
           "island"
         ],
         "hex": "1f3dd",
-        "char": "🏝"
+        "char": "🏝️"
       },
       {
         "unicode": "1f3de",
@@ -12725,7 +12725,7 @@
           "park"
         ],
         "hex": "1f3de",
-        "char": "🏞"
+        "char": "🏞️"
       },
       {
         "unicode": "1f3df",
@@ -12746,7 +12746,7 @@
           "stadium"
         ],
         "hex": "1f3df",
-        "char": "🏟"
+        "char": "🏟️"
       },
       {
         "unicode": "1f3db",
@@ -12766,7 +12766,7 @@
           "classical_building"
         ],
         "hex": "1f3db",
-        "char": "🏛"
+        "char": "🏛️"
       },
       {
         "unicode": "1f3d7",
@@ -12786,7 +12786,7 @@
           "construction_site"
         ],
         "hex": "1f3d7",
-        "char": "🏗"
+        "char": "🏗️"
       },
       {
         "unicode": "1f3d8",
@@ -12807,7 +12807,7 @@
           "homes"
         ],
         "hex": "1f3d8",
-        "char": "🏘"
+        "char": "🏘️"
       },
       {
         "unicode": "1f3d9",
@@ -12826,7 +12826,7 @@
           "cityscape"
         ],
         "hex": "1f3d9",
-        "char": "🏙"
+        "char": "🏙️"
       },
       {
         "unicode": "1f3da",
@@ -12847,7 +12847,7 @@
           "house_abandoned"
         ],
         "hex": "1f3da",
-        "char": "🏚"
+        "char": "🏚️"
       },
       {
         "unicode": "1f3e0",
@@ -13216,7 +13216,7 @@
           "church"
         ],
         "hex": "26ea",
-        "char": "⛪"
+        "char": "⛪️"
       },
       {
         "unicode": "1f54c",
@@ -13279,7 +13279,7 @@
           "shinto_shrine"
         ],
         "hex": "26e9",
-        "char": "⛩"
+        "char": "⛩️"
       },
       {
         "unicode": "1f54b",
@@ -13317,7 +13317,7 @@
           "fountain"
         ],
         "hex": "26f2",
-        "char": "⛲"
+        "char": "⛲️"
       },
       {
         "unicode": "26fa",
@@ -13337,7 +13337,7 @@
           "tent"
         ],
         "hex": "26fa",
-        "char": "⛺"
+        "char": "⛺️"
       },
       {
         "unicode": "1f301",
@@ -14188,7 +14188,7 @@
           "motorway"
         ],
         "hex": "1f6e3",
-        "char": "🛣"
+        "char": "🛣️"
       },
       {
         "unicode": "1f6e4",
@@ -14209,7 +14209,7 @@
           "railway_track"
         ],
         "hex": "1f6e4",
-        "char": "🛤"
+        "char": "🛤️"
       },
       {
         "unicode": "26fd",
@@ -14227,7 +14227,7 @@
           "fuelpump"
         ],
         "hex": "26fd",
-        "char": "⛽"
+        "char": "⛽️"
       },
       {
         "unicode": "1f6a8",
@@ -14320,7 +14320,7 @@
           "anchor"
         ],
         "hex": "2693",
-        "char": "⚓"
+        "char": "⚓️"
       },
       {
         "unicode": "26f5",
@@ -14340,7 +14340,7 @@
           "sailboat"
         ],
         "hex": "26f5",
-        "char": "⛵"
+        "char": "⛵️"
       },
       {
         "unicode": "1f6f6",
@@ -14401,7 +14401,7 @@
           "cruise_ship"
         ],
         "hex": "1f6f3",
-        "char": "🛳"
+        "char": "🛳️"
       },
       {
         "unicode": "26f4",
@@ -14421,7 +14421,7 @@
           "ferry"
         ],
         "hex": "26f4",
-        "char": "⛴"
+        "char": "⛴️"
       },
       {
         "unicode": "1f6e5",
@@ -14440,7 +14440,7 @@
           "motorboat"
         ],
         "hex": "1f6e5",
-        "char": "🛥"
+        "char": "🛥️"
       },
       {
         "unicode": "1f6a2",
@@ -14481,7 +14481,7 @@
           "airplane"
         ],
         "hex": "2708",
-        "char": "✈"
+        "char": "✈️"
       },
       {
         "unicode": "1f6e9",
@@ -14504,7 +14504,7 @@
           "airplane_small"
         ],
         "hex": "1f6e9",
-        "char": "🛩"
+        "char": "🛩️"
       },
       {
         "unicode": "1f6eb",
@@ -14681,7 +14681,7 @@
           "satellite_orbital"
         ],
         "hex": "1f6f0",
-        "char": "🛰"
+        "char": "🛰️"
       },
       {
         "unicode": "1f320",
@@ -14818,7 +14818,7 @@
           "eye_in_speech_bubble"
         ],
         "hex": "1f441-1f5e8",
-        "char": "👁🗨"
+        "char": "👁‍🗨"
       },
       {
         "unicode": "1f498",
@@ -14857,7 +14857,7 @@
           "heart"
         ],
         "hex": "2764",
-        "char": "❤"
+        "char": "❤️"
       },
       {
         "unicode": "1f493",
@@ -15114,7 +15114,7 @@
           "heart_exclamation"
         ],
         "hex": "2763",
-        "char": "❣"
+        "char": "❣️"
       },
       {
         "unicode": "1f4a2",
@@ -15203,7 +15203,7 @@
           "speech_left"
         ],
         "hex": "1f5e8",
-        "char": "🗨"
+        "char": "🗨️"
       },
       {
         "unicode": "1f5ef",
@@ -15222,7 +15222,7 @@
           "anger_right"
         ],
         "hex": "1f5ef",
-        "char": "🗯"
+        "char": "🗯️"
       },
       {
         "unicode": "1f4ad",
@@ -15292,7 +15292,7 @@
           "hotsprings"
         ],
         "hex": "2668",
-        "char": "♨"
+        "char": "♨️"
       },
       {
         "unicode": "1f6d1",
@@ -15778,7 +15778,7 @@
           "spades"
         ],
         "hex": "2660",
-        "char": "♠"
+        "char": "♠️"
       },
       {
         "unicode": "2665",
@@ -15797,7 +15797,7 @@
           "hearts"
         ],
         "hex": "2665",
-        "char": "♥"
+        "char": "♥️"
       },
       {
         "unicode": "2666",
@@ -15816,7 +15816,7 @@
           "diamonds"
         ],
         "hex": "2666",
-        "char": "♦"
+        "char": "♦️"
       },
       {
         "unicode": "2663",
@@ -15834,7 +15834,7 @@
           "clubs"
         ],
         "hex": "2663",
-        "char": "♣"
+        "char": "♣️"
       },
       {
         "unicode": "1f0cf",
@@ -15872,7 +15872,7 @@
           "mahjong"
         ],
         "hex": "1f004",
-        "char": "🀄"
+        "char": "🀄️"
       },
       {
         "unicode": "1f3b4",
@@ -16197,7 +16197,7 @@
           "wheelchair"
         ],
         "hex": "267f",
-        "char": "♿"
+        "char": "♿️"
       },
       {
         "unicode": "1f6b9",
@@ -16368,7 +16368,7 @@
           "warning"
         ],
         "hex": "26a0",
-        "char": "⚠"
+        "char": "⚠️"
       },
       {
         "unicode": "1f6b8",
@@ -16403,7 +16403,7 @@
           "no_entry"
         ],
         "hex": "26d4",
-        "char": "⛔"
+        "char": "⛔️"
       },
       {
         "unicode": "1f6ab",
@@ -16562,7 +16562,7 @@
           "radioactive"
         ],
         "hex": "2622",
-        "char": "☢"
+        "char": "☢️"
       },
       {
         "unicode": "2623",
@@ -16582,7 +16582,7 @@
           "biohazard"
         ],
         "hex": "2623",
-        "char": "☣"
+        "char": "☣️"
       },
       {
         "unicode": "2b06",
@@ -16600,7 +16600,7 @@
           "arrow_up"
         ],
         "hex": "2b06",
-        "char": "⬆"
+        "char": "⬆️"
       },
       {
         "unicode": "2197",
@@ -16618,7 +16618,7 @@
           "arrow_upper_right"
         ],
         "hex": "2197",
-        "char": "↗"
+        "char": "↗️"
       },
       {
         "unicode": "27a1",
@@ -16636,7 +16636,7 @@
           "arrow_right"
         ],
         "hex": "27a1",
-        "char": "➡"
+        "char": "➡️"
       },
       {
         "unicode": "2198",
@@ -16654,7 +16654,7 @@
           "arrow_lower_right"
         ],
         "hex": "2198",
-        "char": "↘"
+        "char": "↘️"
       },
       {
         "unicode": "2b07",
@@ -16672,7 +16672,7 @@
           "arrow_down"
         ],
         "hex": "2b07",
-        "char": "⬇"
+        "char": "⬇️"
       },
       {
         "unicode": "2199",
@@ -16690,7 +16690,7 @@
           "arrow_lower_left"
         ],
         "hex": "2199",
-        "char": "↙"
+        "char": "↙️"
       },
       {
         "unicode": "2b05",
@@ -16708,7 +16708,7 @@
           "arrow_left"
         ],
         "hex": "2b05",
-        "char": "⬅"
+        "char": "⬅️"
       },
       {
         "unicode": "2196",
@@ -16726,7 +16726,7 @@
           "arrow_upper_left"
         ],
         "hex": "2196",
-        "char": "↖"
+        "char": "↖️"
       },
       {
         "unicode": "2195",
@@ -16744,7 +16744,7 @@
           "arrow_up_down"
         ],
         "hex": "2195",
-        "char": "↕"
+        "char": "↕️"
       },
       {
         "unicode": "2194",
@@ -16762,7 +16762,7 @@
           "left_right_arrow"
         ],
         "hex": "2194",
-        "char": "↔"
+        "char": "↔️"
       },
       {
         "unicode": "21a9",
@@ -16780,7 +16780,7 @@
           "leftwards_arrow_with_hook"
         ],
         "hex": "21a9",
-        "char": "↩"
+        "char": "↩️"
       },
       {
         "unicode": "21aa",
@@ -16798,7 +16798,7 @@
           "arrow_right_hook"
         ],
         "hex": "21aa",
-        "char": "↪"
+        "char": "↪️"
       },
       {
         "unicode": "2934",
@@ -16816,7 +16816,7 @@
           "arrow_heading_up"
         ],
         "hex": "2934",
-        "char": "⤴"
+        "char": "⤴️"
       },
       {
         "unicode": "2935",
@@ -16834,7 +16834,7 @@
           "arrow_heading_down"
         ],
         "hex": "2935",
-        "char": "⤵"
+        "char": "⤵️"
       },
       {
         "unicode": "1f503",
@@ -17001,7 +17001,7 @@
           "atom"
         ],
         "hex": "269b",
-        "char": "⚛"
+        "char": "⚛️"
       },
       {
         "unicode": "1f549",
@@ -17019,7 +17019,7 @@
           "om_symbol"
         ],
         "hex": "1f549",
-        "char": "🕉"
+        "char": "🕉️"
       },
       {
         "unicode": "2721",
@@ -17039,7 +17039,7 @@
           "star_of_david"
         ],
         "hex": "2721",
-        "char": "✡"
+        "char": "✡️"
       },
       {
         "unicode": "2638",
@@ -17057,7 +17057,7 @@
           "wheel_of_dharma"
         ],
         "hex": "2638",
-        "char": "☸"
+        "char": "☸️"
       },
       {
         "unicode": "262f",
@@ -17074,7 +17074,7 @@
           "yin_yang"
         ],
         "hex": "262f",
-        "char": "☯"
+        "char": "☯️"
       },
       {
         "unicode": "271d",
@@ -17094,7 +17094,7 @@
           "cross"
         ],
         "hex": "271d",
-        "char": "✝"
+        "char": "✝️"
       },
       {
         "unicode": "2626",
@@ -17112,7 +17112,7 @@
           "orthodox_cross"
         ],
         "hex": "2626",
-        "char": "☦"
+        "char": "☦️"
       },
       {
         "unicode": "262a",
@@ -17130,7 +17130,7 @@
           "star_and_crescent"
         ],
         "hex": "262a",
-        "char": "☪"
+        "char": "☪️"
       },
       {
         "unicode": "262e",
@@ -17151,7 +17151,7 @@
           "peace"
         ],
         "hex": "262e",
-        "char": "☮"
+        "char": "☮️"
       },
       {
         "unicode": "1f54e",
@@ -17210,7 +17210,7 @@
           "aries"
         ],
         "hex": "2648",
-        "char": "♈"
+        "char": "♈️"
       },
       {
         "unicode": "2649",
@@ -17228,7 +17228,7 @@
           "taurus"
         ],
         "hex": "2649",
-        "char": "♉"
+        "char": "♉️"
       },
       {
         "unicode": "264a",
@@ -17246,7 +17246,7 @@
           "gemini"
         ],
         "hex": "264a",
-        "char": "♊"
+        "char": "♊️"
       },
       {
         "unicode": "264b",
@@ -17264,7 +17264,7 @@
           "cancer"
         ],
         "hex": "264b",
-        "char": "♋"
+        "char": "♋️"
       },
       {
         "unicode": "264c",
@@ -17282,7 +17282,7 @@
           "leo"
         ],
         "hex": "264c",
-        "char": "♌"
+        "char": "♌️"
       },
       {
         "unicode": "264d",
@@ -17300,7 +17300,7 @@
           "virgo"
         ],
         "hex": "264d",
-        "char": "♍"
+        "char": "♍️"
       },
       {
         "unicode": "264e",
@@ -17318,7 +17318,7 @@
           "libra"
         ],
         "hex": "264e",
-        "char": "♎"
+        "char": "♎️"
       },
       {
         "unicode": "264f",
@@ -17336,7 +17336,7 @@
           "scorpius"
         ],
         "hex": "264f",
-        "char": "♏"
+        "char": "♏️"
       },
       {
         "unicode": "2650",
@@ -17354,7 +17354,7 @@
           "sagittarius"
         ],
         "hex": "2650",
-        "char": "♐"
+        "char": "♐️"
       },
       {
         "unicode": "2651",
@@ -17372,7 +17372,7 @@
           "capricorn"
         ],
         "hex": "2651",
-        "char": "♑"
+        "char": "♑️"
       },
       {
         "unicode": "2652",
@@ -17390,7 +17390,7 @@
           "aquarius"
         ],
         "hex": "2652",
-        "char": "♒"
+        "char": "♒️"
       },
       {
         "unicode": "2653",
@@ -17408,7 +17408,7 @@
           "pisces"
         ],
         "hex": "2653",
-        "char": "♓"
+        "char": "♓️"
       },
       {
         "unicode": "26ce",
@@ -17498,7 +17498,7 @@
           "arrow_forward"
         ],
         "hex": "25b6",
-        "char": "▶"
+        "char": "▶️"
       },
       {
         "unicode": "23e9",
@@ -17536,7 +17536,7 @@
           "track_next"
         ],
         "hex": "23ed",
-        "char": "⏭"
+        "char": "⏭️"
       },
       {
         "unicode": "23ef",
@@ -17554,7 +17554,7 @@
           "play_pause"
         ],
         "hex": "23ef",
-        "char": "⏯"
+        "char": "⏯️"
       },
       {
         "unicode": "25c0",
@@ -17573,7 +17573,7 @@
           "arrow_backward"
         ],
         "hex": "25c0",
-        "char": "◀"
+        "char": "◀️"
       },
       {
         "unicode": "23ea",
@@ -17611,7 +17611,7 @@
           "track_previous"
         ],
         "hex": "23ee",
-        "char": "⏮"
+        "char": "⏮️"
       },
       {
         "unicode": "1f53c",
@@ -17704,7 +17704,7 @@
           "pause_button"
         ],
         "hex": "23f8",
-        "char": "⏸"
+        "char": "⏸️"
       },
       {
         "unicode": "23f9",
@@ -17722,7 +17722,7 @@
           "stop_button"
         ],
         "hex": "23f9",
-        "char": "⏹"
+        "char": "⏹️"
       },
       {
         "unicode": "23fa",
@@ -17740,7 +17740,7 @@
           "record_button"
         ],
         "hex": "23fa",
-        "char": "⏺"
+        "char": "⏺️"
       },
       {
         "unicode": "23cf",
@@ -17758,7 +17758,7 @@
           "eject"
         ],
         "hex": "23cf",
-        "char": "⏏"
+        "char": "⏏️"
       },
       {
         "unicode": "1f3a6",
@@ -17881,7 +17881,7 @@
           "recycle"
         ],
         "hex": "267b",
-        "char": "♻"
+        "char": "♻️"
       },
       {
         "unicode": "1f4db",
@@ -17916,7 +17916,7 @@
           "fleur-de-lis"
         ],
         "hex": "269c",
-        "char": "⚜"
+        "char": "⚜️"
       },
       {
         "unicode": "1f530",
@@ -17969,7 +17969,7 @@
           "o"
         ],
         "hex": "2b55",
-        "char": "⭕"
+        "char": "⭕️"
       },
       {
         "unicode": "2705",
@@ -18003,7 +18003,7 @@
           "ballot_box_with_check"
         ],
         "hex": "2611",
-        "char": "☑"
+        "char": "☑️"
       },
       {
         "unicode": "2714",
@@ -18020,7 +18020,7 @@
           "heavy_check_mark"
         ],
         "hex": "2714",
-        "char": "✔"
+        "char": "✔️"
       },
       {
         "unicode": "2716",
@@ -18038,7 +18038,7 @@
           "heavy_multiplication_x"
         ],
         "hex": "2716",
-        "char": "✖"
+        "char": "✖️"
       },
       {
         "unicode": "274c",
@@ -18178,7 +18178,7 @@
           "part_alternation_mark"
         ],
         "hex": "303d",
-        "char": "〽"
+        "char": "〽️"
       },
       {
         "unicode": "2733",
@@ -18195,7 +18195,7 @@
           "eight_spoked_asterisk"
         ],
         "hex": "2733",
-        "char": "✳"
+        "char": "✳️"
       },
       {
         "unicode": "2734",
@@ -18212,7 +18212,7 @@
           "eight_pointed_black_star"
         ],
         "hex": "2734",
-        "char": "✴"
+        "char": "✴️"
       },
       {
         "unicode": "2747",
@@ -18229,7 +18229,7 @@
           "sparkle"
         ],
         "hex": "2747",
-        "char": "❇"
+        "char": "❇️"
       },
       {
         "unicode": "203c",
@@ -18247,7 +18247,7 @@
           "bangbang"
         ],
         "hex": "203c",
-        "char": "‼"
+        "char": "‼️"
       },
       {
         "unicode": "2049",
@@ -18265,7 +18265,7 @@
           "interrobang"
         ],
         "hex": "2049",
-        "char": "⁉"
+        "char": "⁉️"
       },
       {
         "unicode": "2753",
@@ -18338,7 +18338,7 @@
           "exclamation"
         ],
         "hex": "2757",
-        "char": "❗"
+        "char": "❗️"
       },
       {
         "unicode": "3030",
@@ -18355,7 +18355,7 @@
           "wavy_dash"
         ],
         "hex": "3030",
-        "char": "〰"
+        "char": "〰️"
       },
       {
         "unicode": "00a9",
@@ -18372,7 +18372,7 @@
           "copyright"
         ],
         "hex": "00a9",
-        "char": "©"
+        "char": "©️"
       },
       {
         "unicode": "00ae",
@@ -18389,7 +18389,7 @@
           "registered"
         ],
         "hex": "00ae",
-        "char": "®"
+        "char": "®️"
       },
       {
         "unicode": "2122",
@@ -18406,7 +18406,7 @@
           "tm"
         ],
         "hex": "2122",
-        "char": "™"
+        "char": "™️"
       },
       {
         "unicode": "0023-20e3",
@@ -18424,7 +18424,7 @@
           "hash"
         ],
         "hex": "0023-20e3",
-        "char": "#⃣"
+        "char": "#️⃣"
       },
       {
         "unicode": "002a-20e3",
@@ -18443,7 +18443,7 @@
           "asterisk"
         ],
         "hex": "002a-20e3",
-        "char": "*⃣"
+        "char": "*️⃣"
       },
       {
         "unicode": "0030-20e3",
@@ -18462,7 +18462,7 @@
           "zero"
         ],
         "hex": "0030-20e3",
-        "char": "0⃣"
+        "char": "0️⃣"
       },
       {
         "unicode": "0031-20e3",
@@ -18481,7 +18481,7 @@
           "one"
         ],
         "hex": "0031-20e3",
-        "char": "1⃣"
+        "char": "1️⃣"
       },
       {
         "unicode": "0032-20e3",
@@ -18500,7 +18500,7 @@
           "two"
         ],
         "hex": "0032-20e3",
-        "char": "2⃣"
+        "char": "2️⃣"
       },
       {
         "unicode": "0033-20e3",
@@ -18519,7 +18519,7 @@
           "three"
         ],
         "hex": "0033-20e3",
-        "char": "3⃣"
+        "char": "3️⃣"
       },
       {
         "unicode": "0034-20e3",
@@ -18538,7 +18538,7 @@
           "four"
         ],
         "hex": "0034-20e3",
-        "char": "4⃣"
+        "char": "4️⃣"
       },
       {
         "unicode": "0035-20e3",
@@ -18557,7 +18557,7 @@
           "five"
         ],
         "hex": "0035-20e3",
-        "char": "5⃣"
+        "char": "5️⃣"
       },
       {
         "unicode": "0036-20e3",
@@ -18576,7 +18576,7 @@
           "six"
         ],
         "hex": "0036-20e3",
-        "char": "6⃣"
+        "char": "6️⃣"
       },
       {
         "unicode": "0037-20e3",
@@ -18595,7 +18595,7 @@
           "seven"
         ],
         "hex": "0037-20e3",
-        "char": "7⃣"
+        "char": "7️⃣"
       },
       {
         "unicode": "0038-20e3",
@@ -18614,7 +18614,7 @@
           "eight"
         ],
         "hex": "0038-20e3",
-        "char": "8⃣"
+        "char": "8️⃣"
       },
       {
         "unicode": "0039-20e3",
@@ -18633,7 +18633,7 @@
           "nine"
         ],
         "hex": "0039-20e3",
-        "char": "9⃣"
+        "char": "9️⃣"
       },
       {
         "unicode": "1f51f",
@@ -18877,7 +18877,7 @@
           "information_source"
         ],
         "hex": "2139",
-        "char": "ℹ"
+        "char": "ℹ️"
       },
       {
         "unicode": "1f194",
@@ -18911,7 +18911,7 @@
           "m"
         ],
         "hex": "24c2",
-        "char": "Ⓜ"
+        "char": "Ⓜ️"
       },
       {
         "unicode": "1f195",
@@ -18996,7 +18996,7 @@
           "parking"
         ],
         "hex": "1f17f",
-        "char": "🅿"
+        "char": "🅿️"
       },
       {
         "unicode": "1f198",
@@ -19081,7 +19081,7 @@
           "sa"
         ],
         "hex": "1f202",
-        "char": "🈂"
+        "char": "🈂️"
       },
       {
         "unicode": "1f237",
@@ -19098,7 +19098,7 @@
           "u6708"
         ],
         "hex": "1f237",
-        "char": "🈷"
+        "char": "🈷️"
       },
       {
         "unicode": "1f236",
@@ -19132,7 +19132,7 @@
           "u6307"
         ],
         "hex": "1f22f",
-        "char": "🈯"
+        "char": "🈯️"
       },
       {
         "unicode": "1f250",
@@ -19184,7 +19184,7 @@
           "u7121"
         ],
         "hex": "1f21a",
-        "char": "🈚"
+        "char": "🈚️"
       },
       {
         "unicode": "1f232",
@@ -19289,7 +19289,7 @@
           "congratulations"
         ],
         "hex": "3297",
-        "char": "㊗"
+        "char": "㊗️"
       },
       {
         "unicode": "3299",
@@ -19307,7 +19307,7 @@
           "secret"
         ],
         "hex": "3299",
-        "char": "㊙"
+        "char": "㊙️"
       },
       {
         "unicode": "1f23a",
@@ -19361,7 +19361,7 @@
           "black_small_square"
         ],
         "hex": "25aa",
-        "char": "▪"
+        "char": "▪️"
       },
       {
         "unicode": "25ab",
@@ -19380,7 +19380,7 @@
           "white_small_square"
         ],
         "hex": "25ab",
-        "char": "▫"
+        "char": "▫️"
       },
       {
         "unicode": "25fb",
@@ -19399,7 +19399,7 @@
           "white_medium_square"
         ],
         "hex": "25fb",
-        "char": "◻"
+        "char": "◻️"
       },
       {
         "unicode": "25fc",
@@ -19418,7 +19418,7 @@
           "black_medium_square"
         ],
         "hex": "25fc",
-        "char": "◼"
+        "char": "◼️"
       },
       {
         "unicode": "25fd",
@@ -19437,7 +19437,7 @@
           "white_medium_small_square"
         ],
         "hex": "25fd",
-        "char": "◽"
+        "char": "◽️"
       },
       {
         "unicode": "25fe",
@@ -19456,7 +19456,7 @@
           "black_medium_small_square"
         ],
         "hex": "25fe",
-        "char": "◾"
+        "char": "◾️"
       },
       {
         "unicode": "2b1b",
@@ -19475,7 +19475,7 @@
           "black_large_square"
         ],
         "hex": "2b1b",
-        "char": "⬛"
+        "char": "⬛️"
       },
       {
         "unicode": "2b1c",
@@ -19494,7 +19494,7 @@
           "white_large_square"
         ],
         "hex": "2b1c",
-        "char": "⬜"
+        "char": "⬜️"
       },
       {
         "unicode": "1f536",
@@ -19696,7 +19696,7 @@
           "white_circle"
         ],
         "hex": "26aa",
-        "char": "⚪"
+        "char": "⚪️"
       },
       {
         "unicode": "26ab",
@@ -19715,7 +19715,7 @@
           "black_circle"
         ],
         "hex": "26ab",
-        "char": "⚫"
+        "char": "⚫️"
       },
       {
         "unicode": "1f534",
@@ -20141,7 +20141,7 @@
           "hot_pepper"
         ],
         "hex": "1f336",
-        "char": "🌶"
+        "char": "🌶️"
       },
       {
         "unicode": "1f952",
@@ -21060,7 +21060,7 @@
           "coffee"
         ],
         "hex": "2615",
-        "char": "☕"
+        "char": "☕️"
       },
       {
         "unicode": "1f375",
@@ -21286,7 +21286,7 @@
           "fork_knife_plate"
         ],
         "hex": "1f37d",
-        "char": "🍽"
+        "char": "🍽️"
       },
       {
         "unicode": "1f374",

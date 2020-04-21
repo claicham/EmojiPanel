@@ -3,6 +3,24 @@
     overflow-y: auto;
     height: 300px;
     padding: 0 $EmojiPanel-padding-results $EmojiPanel-padding-results;
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 100%;
+    flex-wrap: wrap;
+
+    scrollbar-color: #dddede rgba(#eaebeb, 0.5);
+    scrollbar-width: thin;
+
+    &::-webkit-scrollbar {
+      width: $EmojiPanel-scrollbar-width;
+    }
+    &::-webkit-scrollbar-track {
+      box-shadow: inset $EmojiPanel-scrollbar-width 0 0 rgba(#eaebeb, 0.5);
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: #dddede;
+      border-radius: $EmojiPanel-scrollbar-width / 2;
+    }
 
     .emoji {
       background: #fff;
@@ -22,6 +40,15 @@
     padding: 0 0 5px;
     border-bottom: 1px solid $EmojiPanel-border-input;
     color: $EmojiPanel-category-title;
-    clear: both;
+    min-width: 100%;
+  }
+
+  &__frequentResults {
+    min-width: $EmojiPanel-width - ($EmojiPanel-padding-results * 2) -
+      $EmojiPanel-scrollbar-width;
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 100%;
+    flex-wrap: wrap;
   }
 }
