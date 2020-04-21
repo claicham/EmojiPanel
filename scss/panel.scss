@@ -14,6 +14,8 @@
   border-radius: $EmojiPanel-border-radius;
   background: $EmojiPanel-background-panel;
   text-align: left;
+  border: 1px solid $EmojiPanel-border-color;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 
   @media (min-width: $EmojiPanel-width) {
     width: $EmojiPanel-width;
