@@ -39,20 +39,18 @@
   }
 
   .emoji {
-    min-width: calc(100% / 9);
-    min-height: $EmojiPanel-emoji-width;
-    max-width: calc(100% / 9);
-    max-height: $EmojiPanel-emoji-width;
-    height: 24px;
+    width: calc(100% / 9);
+    max-height: 35px;
     border: 4px solid transparent;
-    border-radius: $EmojiPanel-border-radius;
-    font-size: ($EmojiPanel-emoji-width - 12px);
+    border-radius: 3px;
+    font-size: 18px;
     line-height: 1.3;
     cursor: pointer;
     transition: all 0.2s;
     overflow: hidden;
     text-align: center;
-    vertical-align: text-bottom;
+    box-sizing: border-box;
+    vertical-align: middle;
 
     &:hover,
     &:focus {
