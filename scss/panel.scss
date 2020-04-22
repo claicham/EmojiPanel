@@ -43,6 +43,7 @@
     min-height: $EmojiPanel-emoji-width;
     max-width: calc(100% / 9);
     max-height: $EmojiPanel-emoji-width;
+    height: 24px;
     border: 4px solid transparent;
     border-radius: $EmojiPanel-border-radius;
     font-size: ($EmojiPanel-emoji-width - 12px);

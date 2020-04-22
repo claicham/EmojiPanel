@@ -70,6 +70,12 @@ const Emojis = {
                 )
             ) {
                 return `<svg viewBox="0 0 20 20"><use xlink:href="#${emoji.unicode}"></use></svg>`;
+            } else if (
+                document.querySelector(
+                    `.${options.classnames.svg} [id="${emoji.unicode_alt}"]`
+                )
+            ) {
+                return `<svg viewBox="0 0 20 20"><use xlink:href="#${emoji.unicode_alt}"></use></svg>`;
             }
         }
 
@@ -99,7 +105,8 @@ const Emojis = {
         button.setAttribute("type", "button");
         button.innerHTML = Emojis.createEl(emoji, options);
         button.classList.add("emoji");
-        button.dataset.unicode = emoji.unicode;
+        button.dataset.unicode =
+            emoji.unicode_alt.length > 1 ? emoji.unicode_alt : emoji.unicode;
         button.dataset.char = emoji.char;
         button.dataset.category = emoji.category;
         button.dataset.name = emoji.name;
@@ -139,7 +146,6 @@ const Emojis = {
         if (!options.editable) {
             return;
         }
-        console.log(emoji);
         input.value = [
             currentValue.slice(0, caretPosStart),
             emoji.char,
@@ -155,6 +161,13 @@ const Emojis = {
             );
             shroud.classList.toggle(options.classnames.open);
         }
+        // clear search on close
+        // if (options.search) {
+        //     const searchInput = document.querySelector(
+        //         `.${options.classnames.searchInput}`
+        //     );
+        //     searchInput.value = "";
+        // }
     },
 };
 
