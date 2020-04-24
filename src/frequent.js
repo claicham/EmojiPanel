@@ -1,3 +1,5 @@
+const Emojis = require("./emojis");
+
 class Frequent {
     getAll() {
         var list = localStorage.getItem("EmojiPanel-frequent") || "[]";
@@ -11,13 +13,18 @@ class Frequent {
     add(emoji) {
         var list = this.getAll();
 
-        if (list.find((row) => row.char == emoji.char)) {
+        if (list.find((row) => row.char === emoji.char)) {
             return false;
+        } else if (list.length > 4) {
+            list.push(emoji);
+            list.shift();
+            localStorage.setItem("EmojiPanel-frequent", JSON.stringify(list));
+            return true;
+        } else {
+            list.push(emoji);
+            localStorage.setItem("EmojiPanel-frequent", JSON.stringify(list));
+            return true;
         }
-
-        list.push(emoji);
-        localStorage.setItem("EmojiPanel-frequent", JSON.stringify(list));
-        return true;
     }
 }
 

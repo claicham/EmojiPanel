@@ -121,10 +121,13 @@ const Emojis = {
                     let frequentResults = document.querySelector(
                         `.${options.classnames.frequentResults}`
                     );
+                    let list = Frequent.getAll();
 
-                    frequentResults.appendChild(
+                    const html = list.map((emoji) =>
                         Emojis.createButton(emoji, options, emit)
                     );
+                    console.log(html);
+                    frequentResults.innerHTML = html;
                     frequentResults.style.display = "block";
                 }
 
