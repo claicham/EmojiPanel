@@ -10,12 +10,12 @@ class Frequent {
             return [];
         }
     }
-    add(emoji) {
+    add(emoji, limit) {
         var list = this.getAll();
 
         if (list.find((row) => row.char === emoji.char)) {
             return false;
-        } else if (list.length > 4) {
+        } else if (limit && list.length >= limit) {
             list.push(emoji);
             list.shift();
             localStorage.setItem("EmojiPanel-frequent", JSON.stringify(list));

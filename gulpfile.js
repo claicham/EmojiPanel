@@ -1,71 +1,90 @@
-const gulp = require('gulp');
-const util = require('gulp-util');
-const sass = require('gulp-sass');
-const source = require('vinyl-source-stream');
-const buffer = require('vinyl-buffer');
-const browserify = require('browserify');
-const watchify = require('watchify');
-const babel = require('babelify');
-const uglify = require('gulp-uglify');
-const rename = require('gulp-rename');
+const gulp = require("gulp");
+const util = require("gulp-util");
+const sass = require("gulp-sass");
+const source = require("vinyl-source-stream");
+const buffer = require("vinyl-buffer");
+const browserify = require("browserify");
+const watchify = require("watchify");
+const babel = require("babelify");
+const uglify = require("gulp-uglify");
+const rename = require("gulp-rename");
 
 let dev = false;
 
-gulp.task('js', (done) => {
-    const bundler = watchify(browserify('./src/index.js', { debug: dev })
-        .transform(babel, {
-            presets: ['es2015']
-        }));
+gulp.task("js", (done) => {
+    const bundler = watchify(
+        browserify("./src/index.js", { debug: dev }).transform(babel, {
+            presets: [
+                [
+                    "@babel/preset-env",
+                    {
+                        useBuiltIns: "usage",
+                        corejs: { version: 3, proposals: true },
+                    },
+                ],
+            ],
+        })
+    );
 
     const rebundle = () => {
-        console.log('-> bundling...');
+        console.log("-> bundling...");
 
-        return bundler.bundle()
-            .once('error', function(err) { console.error(err); this.emit('end'); })
-            .pipe(source('emojipanel.js'))
+        return bundler
+            .bundle()
+            .once("error", function (err) {
+                console.error(err);
+                this.emit("end");
+            })
+            .pipe(source("emojipanel.js"))
             .pipe(buffer())
             .pipe(!dev ? uglify() : util.noop())
-            .pipe(gulp.dest('./dist'))
-            .pipe(gulp.dest('./docs/js'))
-            .once('end', () => {
-                console.log('-> bundled!')
+            .pipe(gulp.dest("./dist"))
+            .pipe(gulp.dest("./docs/js"))
+            .once("end", () => {
+                console.log("-> bundled!");
 
-                if(!dev) {
+                if (!dev) {
                     process.exit();
                 }
             });
     };
 
-    if(dev) {
-        bundler.on('update', () => rebundle());
+    if (dev) {
+        bundler.on("update", () => rebundle());
     }
 
     rebundle();
     done();
 });
 
-gulp.task('scss', (done) => {
-    gulp.src('./scss/panel.scss')
-        .pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
-        .pipe(rename('emojipanel.css'))
-        .pipe(gulp.dest('./dist'))
-        .pipe(gulp.dest('./docs/css'));
+gulp.task("scss", (done) => {
+    gulp.src("./scss/panel.scss")
+        .pipe(sass({ outputStyle: "compressed" }).on("error", sass.logError))
+        .pipe(rename("emojipanel.css"))
+        .pipe(gulp.dest("./dist"))
+        .pipe(gulp.dest("./docs/css"));
 
     done();
 });
 
-gulp.task('build', gulp.series('scss', 'js'));
+gulp.task("build", gulp.series("scss", "js"));
 
-gulp.task('dev', (done) => {
+gulp.task("dev", (done) => {
     dev = true;
     done();
-})
+});
 
-gulp.task('watch', gulp.series('dev', 'scss', 'js', (done) => {
-    gulp.watch('scss/**/*.scss', gulp.series('scss'));
-    done();
-}));
+gulp.task(
+    "watch",
+    gulp.series("dev", "scss", "js", (done) => {
+        gulp.watch("scss/**/*.scss", gulp.series("scss"));
+        done();
+    })
+);
 
-gulp.task('default', gulp.series('watch', (done) => {
-    done();
-}));
+gulp.task(
+    "default",
+    gulp.series("watch", (done) => {
+        done();
+    })
+);

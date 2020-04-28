@@ -268,20 +268,22 @@ new EmojiPanel({
 
     <script src="js/emojipanel.js"></script>
     <script>
-      window.onload = () => {
+      window.onload = function () {
         var giantEmoji = document.querySelector(".giant-emoji");
         var home = new EmojiPanel({
           container: "#home",
           pack_url: "/img/twemoji.svg",
         });
-        home.addListener("select", (emoji) => {
+        home.addListener("select", function (emoji) {
           console.log(emoji);
           giantEmoji
             .querySelector("use")
             .setAttribute("xlink:href", "#" + emoji.unicode);
           giantEmoji.classList.add("active");
 
-          window.setTimeout(() => giantEmoji.classList.remove("active"), 300);
+          window.setTimeout(function () {
+            giantEmoji.classList.remove("active"), 300;
+          });
         });
       };
     </script>

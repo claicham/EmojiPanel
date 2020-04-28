@@ -117,17 +117,17 @@ const Emojis = {
         if (emit) {
             button.addEventListener("click", () => {
                 emit("select", emoji);
-                if (options.frequent == true && Frequent.add(emoji)) {
+                if (
+                    options.frequent == true &&
+                    Frequent.add(emoji, options.frequent_limit)
+                ) {
                     let frequentResults = document.querySelector(
                         `.${options.classnames.frequentResults}`
                     );
-                    let list = Frequent.getAll();
 
-                    const html = list.map((emoji) =>
+                    frequentResults.appendChild(
                         Emojis.createButton(emoji, options, emit)
                     );
-                    console.log(html);
-                    frequentResults.innerHTML = html;
                     frequentResults.style.display = "block";
                 }
 
@@ -164,13 +164,6 @@ const Emojis = {
             );
             shroud.classList.toggle(options.classnames.open);
         }
-        // clear search on close
-        // if (options.search) {
-        //     const searchInput = document.querySelector(
-        //         `.${options.classnames.searchInput}`
-        //     );
-        //     searchInput.value = "";
-        // }
     },
 };
 

@@ -8,6 +8,7 @@ const classnames = require("./classnames");
 const defaults = {
     search: true,
     frequent: true,
+    frequent_limit: false,
     fitzpatrick: "a",
     hidden_categories: [],
     use_shroud: false,
